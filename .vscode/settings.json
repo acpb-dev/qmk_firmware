@@ -30,7 +30,5 @@
     },
     "clangd.arguments": [
         "--header-insertion=never"
-    ],
-    "git.ignoreLimitWarning": true,
-    "cmake.configureOnOpen": false
+    ]
 }
