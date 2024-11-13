@@ -1,5 +1,10 @@
 # Included Keyboards
 
+Compile my keyboard :
+qmk compile -kb keychron/q1/v2 -km version
+qmk flash -kb keychron/q1/v2 -km version
+
+
 QMK runs on a diverse range of keyboards. Some of these keyboards are well maintained and see constant community contributions, while others are part of the repository for historical reasons.
 
 ## Official QMK Keyboards
